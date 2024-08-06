@@ -7,4 +7,5 @@ propiedades de listview flutter
 # listview ontap con print
 ![image](https://github.com/user-attachments/assets/2b9495c6-9082-4da8-b2ef-7b9b5aa0a0fe)
 
-
+# listview con clase
+![image](https://github.com/user-attachments/assets/0c48eaf2-f152-46e6-97ab-dc39678ad7ba)
